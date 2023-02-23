@@ -37,7 +37,7 @@ class Tracking
      */
     public static function trace(string $awbNumber) : object
     {
-        $apiEndpoint = JNE::$baseUrl . '/tracing/api/list/cnoteretails/cnote/' . $awbNumber;
+        $apiEndpoint = JNE::$baseUrl . '/tracing/api/list/v1/cnote/' . $awbNumber;
         $sendRequest = HttpClient::sendRequest($apiEndpoint, 'POST');
         $response = json_decode($sendRequest);
 
