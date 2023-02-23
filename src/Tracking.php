@@ -4,23 +4,23 @@
  * Tracking.php
  *
  * @category Class
- * @package  YusufTheDragon\JNE
+ * @package  Agt\JNE
  *
- * @author   Yusuf Ardi <yusufardi96@gmail.com>
+ * @author   Anggit Pratama <anggitvz@gmail.com>
  * @license  https://opensource.org/licenses/GPL-3.0 GPL-3.0-only License
  */
 
-namespace YusufTheDragon\JNE;
+namespace Agt\JNE;
 
-use YusufTheDragon\JNE\Exceptions\ApiException;
+use Agt\JNE\Exceptions\ApiException;
 
 /**
  * Class Tracking
  *
  * @category Class
- * @package  YusufTheDragon\JNE
+ * @package  Agt\JNE
  *
- * @author   Yusuf Ardi <yusufardi96@gmail.com>
+ * @author   Anggit Pratama <anggitvz@gmail.com>
  * @license  https://opensource.org/licenses/GPL-3.0 GPL-3.0-only License
  */
 class Tracking

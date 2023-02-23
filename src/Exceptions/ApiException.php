@@ -4,21 +4,21 @@
  * ApiException.php
  *
  * @category Class
- * @package  YusufTheDragon\JNE\Exceptions
+ * @package  Agt\JNE\Exceptions
  *
- * @author   Yusuf Ardi <yusufardi96@gmail.com>
+ * @author   Anggit Pratama <anggitvz@gmail.com>
  * @license  https://opensource.org/licenses/GPL-3.0 GPL-3.0-only License
  */
 
-namespace YusufTheDragon\JNE\Exceptions;
+namespace Agt\JNE\Exceptions;
 
 /**
  * Class ApiException
  *
  * @category Class
- * @package  YusufTheDragon\JNE\Exceptions
+ * @package  Agt\JNE\Exceptions
  *
- * @author   Yusuf Ardi <yusufardi96@gmail.com>
+ * @author   Anggit Pratama <anggitvz@gmail.com>
  * @license  https://opensource.org/licenses/GPL-3.0 GPL-3.0-only License
  */
 class ApiException extends \Exception
