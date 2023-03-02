@@ -11,7 +11,7 @@ Originally created by yusufthedragon/jne-php.
 - [Usages and Examples](#usages-and-examples)
   - [Fare](#fare)
     - [Get Fares](#get-fares)
-  - [JNE Online Pickup or Cashless](#jne-online-booking-number)
+  - [JNE Online Pickup or Cashless](#jne-online-pickup-or-cashless)
   - [Tracking](#tracking)
     - [Trace the Package](#trace-the-package)
 - [Contributing](#contributing)
