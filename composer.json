@@ -1,7 +1,7 @@
 {
     "name": "sianggit/jne-php",
     "description": "PHP Clients for JNE API",
-    "version": "0.5.11",
+    "version": "0.5.12",
     "type": "library",
     "license": "GPL-3.0-only",
     "keywords": [
