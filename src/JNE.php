@@ -86,7 +86,7 @@ class JNE
     public static function setProductionMode(bool $value = true) : void
     {
         if ($value) {
-            self::$baseUrl = 'http://apiv2.jne.co.id:10101';
+            self::$baseUrl = 'https://apiv2.jne.co.id:10205';
         }
     }
 }
