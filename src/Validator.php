@@ -37,7 +37,7 @@ class Validator
     {
         foreach ($requiredParameters as $requiredParameter) {
             if (!isset($parameters[$requiredParameter])) {
-                throw new \InvalidArgumentException("Parameter ${requiredParameter} is missing.");
+                throw new \InvalidArgumentException("Parameter {$requiredParameter} is missing.");
             }
         }
     }
